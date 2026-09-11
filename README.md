@@ -73,4 +73,4 @@ The plots and animations are already included in the notebooks, so the results c
 
 ## License
 
-Code and write-ups in this repository are shared under the MIT License (see [LICENSE](LICENSE)). Problem statements are paraphrased from course material and belong to the original instructors.
+Code and write-ups in this repository are shared under the MIT License ([LICENSE](LICENSE)). Problem statements are paraphrased from course material and belong to the original instructors.
